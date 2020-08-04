@@ -1,8 +1,7 @@
-### Hello There!
+### Ethan Chew
 
+Usually codes in Swift! Also can do Javascript, Python and some HTML.
 
-
-## Current Projects
-1. Pocket Science -- Newspace Inc.
-
-## Contact Me
+| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) |
+| :-: | :-: |
+| Pocket Science | Machine Learning |
