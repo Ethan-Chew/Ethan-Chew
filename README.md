@@ -1,4 +1,4 @@
-### Ethan Chew
+## Ethan Chew
 
 Usually codes in Swift! Also can do Javascript, Python and some HTML.
 
