@@ -2,12 +2,6 @@
 
 Usually codes in Swift! Also can do Javascript, Python and some HTML.
 
-## Projects
-
-| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake)
-| :-: | :-: | :-: |
-| Pocket Science | Machine Learning | Quake |
-
 ## Languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -25,6 +19,13 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML.
 
 <br />
 <br />
+
+## Projects
+
+| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake)
+| :-: | :-: | :-: |
+| Pocket Science hopes to help primary school students are struggling with remembering keywords for their science exams so therefore we decided to help them to study everything by consolidating the all keywords in one app sorted by chapters | Machine Learning for Predicting Stocks | Quake is a Earthquake Detection App that informs users of impending earthquake. |
+
 
 ## Stats
 
