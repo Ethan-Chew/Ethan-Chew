@@ -23,14 +23,14 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML.
 ## Projects
 
 | [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) |
-| Pocket Science hopes to help primary school students are struggling with remembering keywords for their science exams so therefore we decided to help them to study everything by consolidating the all keywords in one app sorted by chapters |
 | :-: |
+| Pocket Science hopes to help primary school students are struggling with remembering keywords for their science exams so therefore we decided to help them to study everything by consolidating the all keywords in one app sorted by chapters |
 
 <br />
 
 | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake) |
-| Machine Learning for Predicting Stocks | Quake is a Earthquake Detection App that informs users of impending earthquake. |
 | :-: | :-: |
+| Machine Learning for Predicting Stocks | Quake is a Earthquake Detection App that informs users of impending earthquake. |
 
 ## Stats
 
