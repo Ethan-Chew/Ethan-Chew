@@ -2,6 +2,12 @@
 
 Usually codes in Swift! Also can do Javascript, Python and some HTML.
 
+## Projects
+
+| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake)
+| :-: | :-: | :-: |
+| Pocket Science | Machine Learning | Quake |
+
 ## Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -9,14 +15,17 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />
+
+<br />
+<br />
+
+## Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
-## Projects
-
-| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake)
-| :-: | :-: | :-: |
-| Pocket Science | Machine Learning | Quake |
+<br />
+<br />
 
 ## Stats
 
