@@ -35,4 +35,4 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML.
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ethan-Chew&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Ethan-Chew&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minelarka14")
