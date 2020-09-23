@@ -1,6 +1,6 @@
 # Ethan Chew
 
-Usually codes in Swift! Also can do Javascript, Python and some HTML.
+Usually codes in Swift! Also can do Javascript, Python and some HTML. Currently learning C++ and C# as well.
 
 ## Languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
