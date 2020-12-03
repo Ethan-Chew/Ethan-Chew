@@ -30,9 +30,9 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML. Currently 
 
 <br />
 
-| [Python Stocks Machine Learning](https://github.com/Ethan-Chew/Stock-Machine-Learning) | [Quake](https://github.com/Ethan-Chew/Quake) |
+| [Small Projects](https://github.com/Ethan-Chew/Small-Projects) | [Quake](https://github.com/Ethan-Chew/Quake) |
 | :-: | :-: |
-| Machine Learning for Predicting Stocks | Quake is a Earthquake Detection App that informs users of impending earthquake. |
+| Small Projects I made in my free time (That actually work) | Quake is a Earthquake Detection App that informs users of impending earthquake. |
 
 ## Stats
 
