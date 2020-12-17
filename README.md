@@ -1,6 +1,4 @@
-# Ethan Chew
-
-Usually codes in Swift! Also can do Javascript, Python and some HTML. Currently learning C++ and C# as well.
+![Ethan Chew](https://socialify.git.ci/Ethan-Chew/Ethan-Chew/image?description=1&descriptionEditable=Developer%2C%20Designer%2C%20Student&pattern=Circuit%20Board&theme=Light) 
 
 ## Languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -24,17 +22,12 @@ Usually codes in Swift! Also can do Javascript, Python and some HTML. Currently 
 
 ## Projects
 
-| [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) |
-| :-: |
-| Pocket Science hopes to help primary school students are struggling with remembering keywords for their science exams so therefore we decided to help them to study everything by consolidating the all keywords in one app sorted by chapters |
+| iOS Apps | Discord Bots | [Small Projects](https://github.com/Ethan-Chew/Small-Projects) | [Personal Website](https://github.com/Ethan-Chew/Personal-Website) |
+| :--- | :--- | :--- | :--- |
+| - [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS)<br />- [Quake](https://github.com/Ethan-Chew/Quake)<br />- [Random Clicker](https://github.com/Ethan-Chew/Random-Clicker)<br />- [To-Do-List (WIP)](https://github.com/Ethan-Chew/To-Do-List) | - [Lvlse](https://github.com/Ethan-Chew/Lvlse)<br />- [Newdawns](https://github.com/Ethan-Chew/Newdawns)<br />- [Moderation Bot](https://github.com/Ethan-Chew/Moderation-Bot)<br />- [Melodia](https://github.com/Ethan-Chew/Melodia)<br /> | Small Projects I made when I am free | The Source Code for my [Personal Website](ethanchew.me) |
 
 <br />
 
-| [Small Projects](https://github.com/Ethan-Chew/Small-Projects) | [Quake](https://github.com/Ethan-Chew/Quake) |
-| :-: | :-: |
-| Small Projects I made in my free time (That actually work) | Quake is a Earthquake Detection App that informs users of impending earthquake. |
-
-## Stats
+## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ethan-Chew&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Chew)
