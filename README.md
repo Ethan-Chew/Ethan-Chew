@@ -36,7 +36,7 @@
 
 | iOS Apps | Discord Bots | [Small Projects](https://github.com/Ethan-Chew/Small-Projects) | [Personal Website](https://github.com/Ethan-Chew/Personal-Website) |
 | :--- | :--- | :--- | :--- |
-| - [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS)<br />- [Quake](https://github.com/Ethan-Chew/Quake)<br />- [Random Clicker](https://github.com/Ethan-Chew/Random-Clicker)<br />- [To-Do-List (WIP)](https://github.com/Ethan-Chew/To-Do-List) | - [Lvlse](https://github.com/Ethan-Chew/Lvlse)<br />- [Newdawns](https://github.com/Ethan-Chew/Newdawns)<br />- [Moderation Bot](https://github.com/Ethan-Chew/Moderation-Bot)<br />- [Melodia](https://github.com/Ethan-Chew/Melodia)<br /> | Small Projects I made when I am free | The Source Code for my [Personal Website](ethanchew.me) |
+| - [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS)<br />- [Quake](https://github.com/Ethan-Chew/Quake)<br />- [Random Clicker](https://github.com/Ethan-Chew/Random-Clicker)<br />- [To-Do-List (WIP)](https://github.com/Ethan-Chew/To-Do-List)<br />- [Scout Attendance](https://github.com/Ethan-Chew/ScoutsAttendance) | - [Lvlse](https://github.com/Ethan-Chew/Lvlse)<br />- [Newdawns](https://github.com/Ethan-Chew/Newdawns)<br />- [Moderation Bot](https://github.com/Ethan-Chew/Moderation-Bot)<br />- [Melodia](https://github.com/Ethan-Chew/Melodia)<br /> | Small Projects I made when I am free | The Source Code for my [Personal Website](ethanchew.me) |
 
 <br />
 
