@@ -41,5 +41,5 @@
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ethan-Chew&bg_color=30,159957,155799&title_color=fff&text_color=fff&count_private=true&show_icons=false&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Chew&layout=compact&bg_color=30,159957,155799&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ethan-Chew&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Chew&layout=compact&hide=tcl)
