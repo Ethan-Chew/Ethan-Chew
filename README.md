@@ -6,7 +6,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
@@ -32,10 +31,10 @@
 <br />
 
 ## Projects
+| Swift | JavaScript | Python |
+| :-- | :-- | :-- |
+| 1. [ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG) <br/> 2. [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | 1. [Personal Website](https://github.com/Ethan-Chew/Personal-Website) <br/> 2. [Launch Tracker](https://github.com/Ethan-Chew/Space-Launch-Tracker) <br/> 3. [Simple Web Apps](https://github.com/Ethan-Chew/Web-Apps) | 1. [Toobox](https://github.com/Ethan-Chew/toobox) <br/> 2. [Small Projects](https://github.com/Ethan-Chew/Small-Projects) |
 
-| iOS Apps | Discord Bots | [Small Projects](https://github.com/Ethan-Chew/Small-Projects) | [Personal Website](https://github.com/Ethan-Chew/Personal-Website) |
-| :--- | :--- | :--- | :--- |
-| - [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS)<br />- [Quake](https://github.com/Ethan-Chew/Quake)<br />- [Random Clicker](https://github.com/Ethan-Chew/Random-Clicker)<br />- [To-Do-List (WIP)](https://github.com/Ethan-Chew/To-Do-List) | - [Lvlse](https://github.com/Ethan-Chew/Lvlse)<br />- [Newdawns](https://github.com/Ethan-Chew/Newdawns)<br />- [Moderation Bot](https://github.com/Ethan-Chew/Moderation-Bot)<br />- [Melodia](https://github.com/Ethan-Chew/Melodia)<br /> | Small Projects I made when I am free | The Source Code for my [Personal Website](ethanchew.me) |
 
 <br />
 
