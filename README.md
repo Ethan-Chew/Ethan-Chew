@@ -33,7 +33,7 @@
 ## Projects
 | Swift | JavaScript | Python |
 | :-- | :-- | :-- |
-| 1. [ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG) <br/> 2. [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) | 1. [Personal Website](https://github.com/Ethan-Chew/Personal-Website) <br/> 2. [Launch Tracker](https://github.com/Ethan-Chew/Space-Launch-Tracker) <br/> 3. [Simple Web Apps](https://github.com/Ethan-Chew/Web-Apps) | 1. [Toobox](https://github.com/Ethan-Chew/toobox) <br/> 2. [Small Projects](https://github.com/Ethan-Chew/Small-Projects) |
+| 1. [ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG) <br/> 2. [Pocket Science](https://github.com/Newspace-Inc/Pocket-Science-iOS) <br/> 3. [Dinosaur Game with Vision](https://github.com/Ethan-Chew/Jumping-Dino-iPad) <br/> 4. [SketchPerfect](https://github.com/Ethan-Chew/SketchPerfect) | 1. [Personal Website](https://github.com/Ethan-Chew/Personal-Website) <br/> 2. [Launch Tracker](https://github.com/Ethan-Chew/Space-Launch-Tracker) <br/> 3. [Simple Web Apps](https://github.com/Ethan-Chew/Web-Apps) | 1. [Toobox](https://github.com/Ethan-Chew/toobox) <br/> 2. [Small Projects](https://github.com/Ethan-Chew/Small-Projects) |
 
 
 <br />
