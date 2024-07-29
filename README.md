@@ -8,12 +8,16 @@ I love learning more about the world around me, always striving and finding ways
 
 ## Projects 🛠
 These are some of the notable projects I've worked on:
-- [ProjMatch](https://github.com/GeeksHacking/ProjMatch), [ProjMatch Backend](https://github.com/GeeksHacking/ProjMatch-Backend): A Social Media Platform for developers looking for like-minded people to collaborate on a project.
-- [SST Alumni Association Web App](https://github.com/sstalumniassociation/web): Web Application to manage events for the SST Alumni Association
-- [Personal Website](https://github.com/Ethan-Chew/Personal-Website)
-- [Jumping Dino on iPad](https://github.com/Ethan-Chew/Jumping-Dino-iPad): Google Chrome's Dinosaur Game replicated on the iPad.
-- [Space Launch Tracker](https://github.com/Ethan-Chew/Space-Launch-Tracker): An app to track space launches in the past, present and future.
-- [ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG): An all-in-one app for public transportation in Singapore, built for iOS.
-- [Toobox](https://github.com/Ethan-Chew/toobox): An python app for various academic tools to help secondary school students.
-- [Sketch Perfect](https://github.com/Ethan-Chew/SketchPerfect): A simple sketching game where you have to copy an image as close as possible.
-- [Webify](https://github.com/Ethan-Chew/Webify): Frontend website for a 'a fictional all-in-one website builder designed for developers of all skill sets.'
+1. **Web Development**
+    - [Personal Website](https://github.com/Ethan-Chew/Personal-Website)
+    - [ProjMatch](https://github.com/GeeksHacking/ProjMatch), [ProjMatch Backend](https://github.com/GeeksHacking/ProjMatch-Backend): A Social Media Platform for developers looking for like-minded people to collaborate on a project.
+    - [Space Launch Tracker](https://github.com/Ethan-Chew/Space-Launch-Tracker): An app to track space launches in the past, present and future.
+    - [CareLinc](https://github.com/Ethan-Chew/BED2024Apr_P01_T2): A 'full-stack' Web Application designed to allow patients from less-privileged families to have access to quality medical care at a low cost.
+    - [UnifiedGoods](https://github.com/Ethan-Chew/UnifiedGoods): A fictional eCommerce platform allowing users to gain discounts on products by playing games.
+3. **App Development**
+   - [ArrivalSG](https://github.com/swiftinsg/2021-ArrivalSG): An all-in-one app for public transportation in Singapore, built for iOS.
+   - [Quizzzy](https://github.com/Ethan-Chew/MAD24_P01_Team2): Quizzzy, an educational app, transforms learning through the use of flashcards to promote spaced repetition.
+   - [Jumping Dino on iPad](https://github.com/Ethan-Chew/Jumping-Dino-iPad): Google Chrome's Dinosaur Game replicated on the iPad.
+   - [Sketch Perfect](https://github.com/Ethan-Chew/SketchPerfect): A simple sketching game where you have to copy an image as close as possible.
+5. **Others**
+   - [Toobox](https://github.com/Ethan-Chew/toobox): An python app for various academic tools to help secondary school students.
