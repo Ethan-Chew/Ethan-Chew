@@ -37,6 +37,7 @@ These are some of the notable projects I've worked on:
             <a href="https://www.w3schools.com/css" target="_blank"><img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" /></a>
             <a href="https://nextjs.org" target="_blank"><img alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40" /></a>
             <a href="https://react.dev" target="_blank"><img alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" /></a>
+            <a href="https://laravel.com/" target="_blank"><img alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40" /></a>            
         </td>
         <td>
             <a href="https://nodejs.org/en" target="_blank"><img alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40" /></a>
@@ -45,6 +46,7 @@ These are some of the notable projects I've worked on:
             <a href="https://www.mysql.com" target="_blank"><img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" /></a>
             <a href="https://supabase.com" target="_blank"><img alt="supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40" /></a>
             <a href="https://firebase.google.com" target="_blank"><img alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" width="40" /></a>
+            <a href="https://laravel.com/" target="_blank"><img alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" width="40" /></a>         
         </td>
         <td>
             <a href="https://developer.apple.com/swift/" target="_blank"><img alt="swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" width="40" /></a>
